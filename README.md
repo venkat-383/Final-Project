@@ -1,6 +1,6 @@
 # Expense Tracker
 
-#### Video Demo: https://youtu.be/<YOUR_VIDEO_LINK>
+#### Video Demo: https://youtu.be/I0BR7wi7rAg?si=Fax4n_tNvmKlPMPo
 
 ## Description
 
